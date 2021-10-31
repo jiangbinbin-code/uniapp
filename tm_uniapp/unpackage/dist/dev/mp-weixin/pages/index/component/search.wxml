@@ -1,0 +1,1 @@
+<view class="search-view"><view class="search-men"><image src="/static/search/logo.png" mode="widthFix"></image></view><view data-event-opts="{{[['tap',[['search']]]]}}" class="search-ing" bindtap="__e"><image src="/static/search/sousuo.png" mode="widthFix"></image></view><view class="search-men"><image src="/static/search/saoma.png"></image></view></view>
